@@ -66,7 +66,7 @@ src
 ## Clone
 
 ``` bash
-git clone https://github.com/<your-username>/student-management-system.git
+git clone https://github.com/Dilip8522/Student-Managment-System.git
 cd student-management-system
 ```
 
