@@ -49,7 +49,7 @@ src
 
 ### Student List
 
-![Student List](images/studentS-list.png)
+![Student List](images/students-list.png)
 
 ### Add Student
 
